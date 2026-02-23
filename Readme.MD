@@ -2,3 +2,6 @@
 
 計程車執業登記題庫App
 https://easyway0301.github.io/swiftui/TaxiExam/introduce.html
+
+採購法基礎班題庫App
+https://easyway0301.github.io/swiftui/GovernmentProcurementAct/introduce.html
